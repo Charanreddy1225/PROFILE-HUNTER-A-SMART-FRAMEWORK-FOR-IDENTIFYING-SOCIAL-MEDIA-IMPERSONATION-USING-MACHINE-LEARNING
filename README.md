@@ -1,0 +1,2 @@
+# PROFILE-HUNTER-A-SMART-FRAMEWORK-FOR-IDENTIFYING-SOCIAL-MEDIA-IMPERSONATION-USING-MACHINE-LEARNING
+Online social networks have permeated our social lives in the current generation. These sites have allowed  us to see our social lives differently than they did in the past. Nowadays we can connect with new friends  and maintain relationships with them via social and personal activities become quite easy.
